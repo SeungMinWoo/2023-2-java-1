@@ -17,6 +17,8 @@ public class RandomValMission2 {
             }
         }
         System.out.printf("끝");
+        System.out.printf("끝");
+
 
     }
 }
